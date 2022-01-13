@@ -1,0 +1,2 @@
+# bdump
+nezdieľať, len čítať
