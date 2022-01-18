@@ -1,2 +1,3 @@
-# bdump
-nezdieľať, len čítať
+# Maturitné zadania, vypracovania
+
+zdieľanie bez súhlasu autora je zakázané
